@@ -1,6 +1,6 @@
 # ClickHouse & SageMaker Feature Stores
 
-An example of building an AWS SageMaker model with tight integration with ClickHouse.
+An example of building and online feature store in ClickHouse which is consumed by AWS SageMaker.  
 
 See https://ensembleanalytics.io/blog/sagemaker-feature-store for explanatory blog post.
 
